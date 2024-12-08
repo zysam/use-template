@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Quick start project creator",
   "author": "zysam",
+  "private": false,
   "repository": "https://github.com/zysam/use-template",
   "homepage": "https://github.com/zysam/use-template",
   "license": "MIT",
